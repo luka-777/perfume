@@ -1,0 +1,69 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #F2EAE2;
+}
+
+.conteiner{
+    display: flex;
+    text-align: left;
+    background:  #FFF;
+    border-radius: 10px;
+}
+
+
+.text{
+    padding-left:31px;
+    background-color:#FFFFFF;
+    border-radius: 10px;
+    background: #FFF;
+    padding-top: 50px;
+}
+
+.text h1{
+    width: 170px;
+}
+
+
+.money{
+    display: flex;
+}
+
+.money h1{
+    color: #2cbe89;
+}
+
+.money h3{
+    color: gray;
+    text-decoration-line: line-through;
+    padding-left: 25px;
+}
+
+.headline{
+    color: black;
+    width: 170px;
+}
+
+
+.patara{
+    width: 230px;
+    color: #6C7289;
+}
+
+
+button{
+    width: 236px;
+    height: 48px;
+    text-align: center;
+    border: none;
+    background-color:#3D8168;
+    color: #FFF;
+    border-radius: 11px;
+}
+
+
+.button{
+    margin-right: 45px;
+}
